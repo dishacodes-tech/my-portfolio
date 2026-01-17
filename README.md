@@ -7,11 +7,17 @@ Everything is built from scratch — no frameworks, no generators, no UI kits.
 
 ---
 
+## 🔗 Live Demo  
+👉 https://my-project-portfolio-1.netlify.app/
+
+---
+
 ## 🛠 Tech Stack
 
 - HTML5  
 - CSS3 (Flexbox, Grid, responsive design)  
-- Git & GitHub  
+- Git & GitHub
+-  Netlify (deployment)
 
 ---
 
@@ -20,7 +26,6 @@ Everything is built from scratch — no frameworks, no generators, no UI kits.
 - Fully responsive across mobile, tablet, and desktop  
 - Modular CSS architecture (separate files per section)  
 - Projects page to showcase real work  
-- Contact form UI  
 - Clean, readable codebase (no templates, no frameworks)
 
 ---
